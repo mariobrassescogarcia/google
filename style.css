@@ -4,7 +4,6 @@
 	font-family: "Arial", "Sans Serif";
 }
 
-
 .toolheading{
 	width: 1414px;
 	height: 30px;
@@ -50,6 +49,39 @@
 }
 
 
+.firstbox{
+	width: 1414px;
+	height: 201px;
+	margin: auto;
+	padding-top: 30px;
 
+}
 
+.logobox{
+	padding-top: 109px;
+	margin: auto;
+	width: 272px;
+	height: 92px;
 
+}
+
+#googlelogo{
+	width: 272px;
+	height: 92px;
+	margin: auto;
+
+}
+
+.secondbox{
+	padding-top: 30px;
+	width: 1414px;
+	height: 118px;
+}
+
+.searchbox{
+	width: 560px;
+	height: 45px;
+	margin: auto;
+	border: 1px solid #d9d9d9;
+
+}

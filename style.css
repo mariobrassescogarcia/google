@@ -1,0 +1,35 @@
+.mainbox{
+	width: 1414px;
+	height: 539px;
+	font-family: "Arial", "Sans Serif";
+}
+
+
+.toolheading{
+	width: 1414px;
+	height: 30px;
+}
+
+.toolbox{
+	width: 301px;
+	height: 30px;
+	float: right;
+	padding: 30px;
+
+}
+
+.ngibox{
+	width: 166px;
+	height: 24px;
+	padding-right: 15px;
+	float: left;
+	font-size: 13px;
+}
+
+.tool{
+	width: 60px;
+	height: 24px;
+	padding-right: 10px;
+
+
+}

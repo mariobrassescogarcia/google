@@ -83,5 +83,44 @@
 	height: 45px;
 	margin: auto;
 	border: 1px solid #d9d9d9;
+}
+
+.microbox{
+	width: 30px;
+	height: 35px;
+	float: right;
+	padding-left: 3px;
+	margin: auto;
+}
+
+#microphone{
+	width: 30px;
+	height: 35px;
+	margin: auto;
+}
+
+
+.optionsbox{
+   width: 571px;
+   height: 76px;
+   margin: auto;
+   padding-top: 18px;
 
 }
+
+.buttons{
+   background-color: #f2f2f2;
+   color: #757575;
+   font-size: 13px;
+   font-weight: bold;
+   margin: 11px 4px;
+   padding: 0px 16px;
+   border: 1px;
+   text-align: center;
+   height: 60px;
+   width: 108px;
+
+}
+
+
+

@@ -108,18 +108,49 @@
 
 }
 
-.buttons{
+.buttonsearch{
    background-color: #f2f2f2;
    color: #757575;
    font-size: 13px;
    font-weight: bold;
-   margin: 11px 4px;
+   margin: auto;
    padding: 0px 16px;
    border: 1px;
    text-align: center;
-   height: 60px;
+   height: 34px;
    width: 108px;
+   float: left;
+}
 
+.buttonlucky{
+   background-color: #f2f2f2;
+   color: #757575;
+   font-size: 13px;
+   font-weight: bold;
+   margin: auto;
+   padding: 0px 16px;
+   border: 1px;
+   text-align: center;
+   height: 34px;
+   width: 108px;
+   float: right;
+}
+
+
+.thirbox{
+	width: 1414px;
+	height: 28px;
+}
+
+.languagebox{
+	width: 324px;
+	height: 28px;
+	margin: auto;
+	font-size: 13px;
+}
+
+.languages{
+	padding-right: 3px;
 }
 
 
